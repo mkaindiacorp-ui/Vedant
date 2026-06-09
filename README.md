@@ -121,7 +121,7 @@ body {
 <div class="card">
 
 <div class="header">
-    <div class="logo"><img src="download (5).jpg" width="360" height="100"></div>
+    <div class="logo"><img src="1.jpg" width="360" height="100"></div>
 
     <div class="profile">
         <img src="WhatsApp Image 2026-06-09 at 6.17.24 PM.jpeg" alt="profile">
@@ -178,9 +178,6 @@ body {
     <i class="fa-solid fa-angle-right" style="color:gold;"></i>
 </div>
 
-<div class="map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12268.959012656296!2d79.14356385!3d21.1368559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1777024533849!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 <div class="footer">
     <img src="Untitled design.jpg" width="80" height="80">
@@ -192,11 +189,11 @@ body {
 
 // ACTIONS
 function callNow() {
-    window.location.href = "tel:+918007795091";
+    window.location.href = "tel:+919834084471";
 }
 
 function whatsapp() {
-    window.open("https://wa.me/9834084471", "_blank");
+    window.open("https://wa.me/+919834084471", "_blank");
 }
 
 function instagram() {
@@ -208,11 +205,11 @@ function youtube() {
 }
 
 function linkedin() {
-    window.open("https://linkedin.com",Vedant Kalbande "_blank");
+    window.open("[https://linkedin.com",Vedant Kalbande ](https://www.linkedin.com/in/vedantkalbande?utm_source=share_via&utm_content=profile&utm_medium=member_android)"_blank");
 }
 
 function email() {
-    window.location.href = "vedantkalbande@gmail.com";
+    window.location.href = "mailto:vedantkalbande@gmail.com";
 }
 
 function website() {
@@ -228,9 +225,10 @@ function saveContact() {
     const vcard = `BEGIN:VCARD
 VERSION:3.0
 FN:Vedant Kalbande
-ORG:Madhu Kusum Associates
+ORG:CA Finalist
 TEL:+919834084471
-EMAIL:vedantkalbande.com
+EMAIL:vedantkalbande@gmail.com
+Insta:vedannt7
 END:VCARD`;
 
     const blob = new Blob([vcard], { type: "text/vcard" });
