@@ -193,7 +193,7 @@ function callNow() {
 }
 
 function whatsapp() {
-    window.open("https://wa.me/+919834084471", "_blank");
+    window.open("https://wa.me/919834084471", "_blank");
 }
 
 function instagram() {
@@ -205,7 +205,7 @@ function youtube() {
 }
 
 function linkedin() {
-    window.open("[https://linkedin.com",Vedant Kalbande ](https://www.linkedin.com/in/vedantkalbande?utm_source=share_via&utm_content=profile&utm_medium=member_android)"_blank");
+    window.open("https://www.linkedin.com/in/vedantkalbande", "_blank");
 }
 
 function email() {
