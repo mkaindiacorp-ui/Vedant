@@ -121,10 +121,10 @@ body {
 <div class="card">
 
 <div class="header">
-    <div class="logo"><img src="Gold .png" width="360" height="100"></div>
+    <div class="logo"><img src="download (5).jpg" width="360" height="100"></div>
 
     <div class="profile">
-        <img src="manish.jpeg" alt="profile">
+        <img src="WhatsApp Image 2026-06-09 at 6.17.24 PM.jpeg" alt="profile">
         <div class="info">
             <h2>Mr. Vedant Kalbande</h2>
 			<p>CA Finalist</p>
