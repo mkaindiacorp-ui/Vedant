@@ -173,6 +173,14 @@ body {
     <i class="fa-solid fa-angle-right" style="color:gold;"></i>
 </div>
 
+<div class="item call-highlight" onclick="documents()">
+    <span>
+        <i class="fa-solid fa-folder-open" style="color:gold;"></i>
+       Work Profile
+    </span>
+    <i class="fa-solid fa-angle-right" style="color:gold;"></i>
+</div>
+
 <div class="item call-highlight" onclick="map()">
     <span><i class="fa-solid fa-map" style="color:gold;"></i> Location</span>
     <i class="fa-solid fa-angle-right" style="color:gold;"></i>
@@ -214,6 +222,10 @@ function email() {
 
 function website() {
     window.open("https://www.madhukusumassociates.com", "_blank");
+}
+
+	function documents() {
+    window.open("documents.html", "_blank");
 }
 
 function map() {
